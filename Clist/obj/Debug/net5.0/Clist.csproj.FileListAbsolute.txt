@@ -1,0 +1,16 @@
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\bin\Debug\net5.0\Clist.exe
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\bin\Debug\net5.0\Clist.deps.json
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\bin\Debug\net5.0\Clist.runtimeconfig.json
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\bin\Debug\net5.0\Clist.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\bin\Debug\net5.0\Clist.dll
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\bin\Debug\net5.0\Clist.pdb
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.dll
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\refint\Clist.dll
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.pdb
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\Clist.genruntimeconfig.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Clist\Clist\obj\Debug\net5.0\ref\Clist.dll
